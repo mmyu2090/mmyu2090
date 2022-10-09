@@ -2,7 +2,7 @@
   
 - I'm interested in VR, Linux Container, Back-end services  
   
-- I'm currently Flutter!!!
+- I'm currently learning Flutter!!!
   
 - my velog is https://velog.io/@mmyu2090  
   
