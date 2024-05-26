@@ -1,6 +1,6 @@
 - Hi my name is WooSeok Jang  
   
-- I'm interested in VR, Linux Container, Back-end services  
+- I'm interested in VR, Linux Container, Backend Communications Design
   
 - I'm currently learning Next.js
   
